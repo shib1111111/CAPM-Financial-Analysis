@@ -85,7 +85,7 @@ $$ \alpha_i = R_i - [R_f + \beta_i \cdot (R_m - R_f)] $$
 
 ## Getting Started
 
-Before you can run the MovieMaven app, ensure that you have the necessary prerequisites installed on your machine.
+Before you can run this app, ensure that you have the necessary prerequisites installed on your machine.
 
 ### Prerequisites
 
@@ -137,6 +137,6 @@ We welcome contributions to enhance this project. Feel free to open issues or su
 
 This project is licensed under the [MIT License](LICENSE).
 
-Thank you for using MovieMaven! Feel free to reach out with any questions or feedback.
+Thank you for using this! Feel free to reach out with any questions or feedback.
 
 <em style="color: #ff66b2; font-weight: bold;">✨ --- Designed & made with Love by Shib Kumar Saraf ✨</em>
