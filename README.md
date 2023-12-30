@@ -71,13 +71,13 @@ $$ \alpha_i = R_i - [R_f + \beta_i \cdot (R_m - R_f)] $$
        <caption style="text-align: center; font-weight: bold;">Home Page</caption>
 
   <tr>
-    <td><img src="screenshots/index_page_01.jpg" alt="Index Page" width="800" height="600"/></td>
+    <td><img src="screenshots/index_page_01.jpg" alt="Index Page" width="1200" height="600"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/index_page_02.jpg" alt="Index Page" width="800" height="600"/></td>
+    <td><img src="screenshots/index_page_02.jpg" alt="Index Page" width="1200" height="600"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/index_page_03.jpg" alt="Index Page" width="800" height="600"/></td>
+    <td><img src="screenshots/index_page_03.jpg" alt="Index Page" width="1200" height="600"/></td>
   </tr>
 </table>
 
