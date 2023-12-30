@@ -122,7 +122,7 @@ streamlit run app.py
 Visit the provided local URL (usually http://localhost:8501) in your web browser to access the app.Upon running the application, users are prompted to input their stock preferences, select the analysis period. The subsequent visualizations and metrics provided aim to empower users with a deeper understanding of the risk-return profile of their investment portfolio.
 
 
-or directly go to deployed server url : https://shib1111111-moviemaven-app-ezbhuv.streamlit.app/
+or directly go to deployed server url : https://capm-analysis.streamlit.app/
 
 
 ## Contributing
